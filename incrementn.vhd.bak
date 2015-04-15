@@ -1,0 +1,4 @@
+entity incrementn is
+generic (N : natural :=2 ); 
+port(	);
+end incrementn;
